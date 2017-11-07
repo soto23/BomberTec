@@ -1,3 +1,6 @@
 cin >> Escribe
 cout << "Hola mundo"
 cout << endl;
+cin>>Escribe;
+cout<<"x2";
+cout<<endl;
