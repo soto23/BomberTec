@@ -1,0 +1,3 @@
+cin >> Escribe
+cout << "Hola mundo"
+cout << endl;
